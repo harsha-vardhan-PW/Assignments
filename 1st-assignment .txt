@@ -1,0 +1,44 @@
+Assignment answers on Computer basics.
+
+1) What is a computer?
+
+A)A computer is an electronic device that can perform a variety of tasks, including storing, retrieving, and processing data, as well as running programs or software. It typically includes a central processing unit (CPU), memory, and storage, as well as input and output devices such as a keyboard and monitor. There are many different types of computers, including personal computers, servers, tablets, and smartphones.
+
+
+2) What is a RAM?
+A)RAM stands for Random Access Memory.
+It is a type of computer memory that is used to temporarily store data that the central processing unit (CPU) needs quick access to. 
+RAM is volatile memory, which means that it is wiped clean when the computer is turned off or restarted. RAM is used to hold the data that the CPU is currently processing and the instructions the CPU needs to execute.RAM is typically measured in gigabytes (GB) or megabytes (MB).
+
+3)Where is data stored in a computer?
+
+A)Data in a computer is typically stored in one or more storage devices, such as a hard drive or solid-state drive. These storage devices use magnetic or flash memory to retain data even when the computer is powered off.
+
+A hard drive is a type of non-volatile storage that typically stores the Operating system, applications and user data. They come in different sizes and can be internal or external.
+
+A solid-state drive (SSD) is another type of non-volatile storage that uses flash memory to store data. SSDs are faster and more durable than traditional hard drives, and are commonly used in laptops and high-performance desktop computers.
+
+Data can also be stored on other types of storage media, such as CDs, DVDs, USB drives, and memory cards. Additionally, data can also be stored on external servers, such as cloud servers, that can be accessed over the internet.
+
+It's also worth noting that, in addition to these storage devices, data can also be temporarily stored in RAM (Random Access Memory) while the computer is powered on, but it is deleted when the computer is shut down.
+
+4) What is the input device used to type text and numbers on a document in the computer system?
+A)Keyboard 
+
+5) What are output devices?
+A)Output devices are computer components that display or output information for the user to see or hear. They are used to convey information from the computer to the user.
+Examples: Monitor, Projector,Printer, Speakers.
+
+
+6) What is the input device that allows a user to move the cursor or pointer on the screen?
+A) Mouse
+
+7)Which language is directly understand by the computer without a translation program?
+A) Binary language
+
+8)What are input devices?
+A)Input devices are computer components that allow users to input or provide data to the computer. They are used to convey information from the user to the computer.
+Examples: Keyboard, Mouse, Scanner, Joystick.
+
+
+
